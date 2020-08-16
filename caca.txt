@@ -1,2 +1,0 @@
-el autor es variable1 y vive en variable2
-saludos!!
